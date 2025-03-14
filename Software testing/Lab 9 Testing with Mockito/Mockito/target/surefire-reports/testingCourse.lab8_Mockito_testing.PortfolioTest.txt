@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testingCourse.lab8_Mockito_testing.PortfolioTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in testingCourse.lab8_Mockito_testing.PortfolioTest

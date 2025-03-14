@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: testingCourse.lab8_Mockito_testing.MoneyTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in testingCourse.lab8_Mockito_testing.MoneyTest
+testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_NULL()  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "testingCourse.lab8_Mockito.Money.equals(Object)" because "this.m12chf" is null
+	at testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_NULL(MoneyTest.java:42)
+
+testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_SameValue()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "testingCourse.lab8_Mockito.Money.equals(Object)" because "this.m12chf" is null
+	at testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_SameValue(MoneyTest.java:35)
+
+testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_DifferentValues()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "testingCourse.lab8_Mockito.Money.equals(Object)" because "this.m12chf" is null
+	at testingCourse.lab8_Mockito_testing.MoneyTest.testEquals_DifferentValues(MoneyTest.java:49)
+
+testingCourse.lab8_Mockito_testing.MoneyTest.testAdd_PositiveValues()  Time elapsed: 0 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "testingCourse.lab8_Mockito.Money.add(testingCourse.lab8_Mockito.IMoney)" because "this.m12chf" is null
+	at testingCourse.lab8_Mockito_testing.MoneyTest.testAdd_PositiveValues(MoneyTest.java:27)
+
