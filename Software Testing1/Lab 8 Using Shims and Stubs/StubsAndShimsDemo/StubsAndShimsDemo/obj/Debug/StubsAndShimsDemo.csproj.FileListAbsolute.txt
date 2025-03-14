@@ -1,0 +1,10 @@
+D:\GoogleDrive\College\Labs\SQA-Testing\0-introduction to ST\Lesson_10_Unit Testing with Stubs & Shims\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\bin\Debug\StubsAndShimsDemo.dll
+D:\GoogleDrive\College\Labs\SQA-Testing\0-introduction to ST\Lesson_10_Unit Testing with Stubs & Shims\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\bin\Debug\StubsAndShimsDemo.pdb
+D:\GoogleDrive\College\Labs\SQA-Testing\0-introduction to ST\Lesson_10_Unit Testing with Stubs & Shims\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\College\Labs\SQA-Testing\0-introduction to ST\Lesson_10_Unit Testing with Stubs & Shims\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.dll
+D:\GoogleDrive\College\Labs\SQA-Testing\0-introduction to ST\Lesson_10_Unit Testing with Stubs & Shims\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.pdb
+C:\Users\katerina\Desktop\Testing_course\Labs\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\StubsAndShimsDemo\bin\Debug\StubsAndShimsDemo.dll
+C:\Users\katerina\Desktop\Testing_course\Labs\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\StubsAndShimsDemo\bin\Debug\StubsAndShimsDemo.pdb
+C:\Users\katerina\Desktop\Testing_course\Labs\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.csprojResolveAssemblyReference.cache
+C:\Users\katerina\Desktop\Testing_course\Labs\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.dll
+C:\Users\katerina\Desktop\Testing_course\Labs\Lab_10_Stubs & Shims\StubsAndShimsDemo\StubsAndShimsDemo\StubsAndShimsDemo\obj\Debug\StubsAndShimsDemo.pdb

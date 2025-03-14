@@ -1,0 +1,13 @@
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe.config
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe
+D:\temp\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.pdb
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.csprojResolveAssemblyReference.cache
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.exe
+D:\temp\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.pdb
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe.config
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.exe
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\bin\Debug\Lab_Refactoring.pdb
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.csproj.AssemblyReference.cache
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.exe
+C:\Users\katerina\Downloads\Lab_Refactoring\Lab_Refactoring\Lab_Refactoring\obj\Debug\Lab_Refactoring.pdb
